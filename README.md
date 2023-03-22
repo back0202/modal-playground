@@ -29,5 +29,7 @@
 6. nav버튼으로 원하는 슬라이더 이동.
 
 # 알게된점
-1. flex
+##flex
 https://velog.io/@toyo8/flex-%EB%9E%80
+##Transform
+https://velog.io/@toyo8/Transform%EC%9D%B4%EB%9E%80
