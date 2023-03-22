@@ -33,3 +33,5 @@
 https://velog.io/@toyo8/flex-%EB%9E%80
 ## Transform
 https://velog.io/@toyo8/Transform%EC%9D%B4%EB%9E%80
+## 디자인 패턴
+https://velog.io/@toyo8/%ED%95%A9%EC%84%B1-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A1%9C-%EC%9E%AC%EC%82%AC%EC%9A%A9%EC%84%B1-%EA%B7%B9%EB%8C%80%ED%99%94%ED%95%98%EA%B8%B0
